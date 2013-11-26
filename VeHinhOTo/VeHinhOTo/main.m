@@ -7,7 +7,7 @@
 //
 
 #import <Foundation/Foundation.h>
-#include<graphics.h>
+//#include<graphics.h>
 #include<math.h>
 //#include<iostream.h>
 /***** VE DUONG THANG ****/
