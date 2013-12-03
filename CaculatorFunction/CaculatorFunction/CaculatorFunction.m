@@ -9,5 +9,16 @@
 #import "CaculatorFunction.h"
 
 @implementation CaculatorFunction
-
+-(float)cong: (float)a : (float)b{
+    return a+b;
+}
+-(float)tru: (float)a : (float)b{
+    return a-b;
+}
+-(float)nhan: (float)a : (float)b{
+    return a*b;
+}
+-(float)chia: (float)a : (float)b{
+    return a/b;
+}
 @end
